@@ -1,1 +1,3 @@
-# quantum-historical-data-search
+# Quantum Historical Data Search
+
+This repository contains Greg and Victor's final project for CSCI 300: Quantum Computing at St. Olaf College. More to come soon...
