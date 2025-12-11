@@ -2,5 +2,5 @@
 .env
 .DS_Store
 .vs_code
-data.csv
+wiki_data.csv
 gladiator_data.csv
