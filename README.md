@@ -138,6 +138,20 @@ quantum-historical-data-search/
 - Training the quantum classifier may take several minutes depending on your hardware.
 - The QAOA optimization is set to 50 iterations by default, which may take a few minutes to complete.
 
+## Documentation
+
+For a comprehensive beginner's guide explaining every piece of code in detail, see:
+
+📖 **[QUANTUM_COMPUTING_GUIDE.md](QUANTUM_COMPUTING_GUIDE.md)** - Complete educational guide covering:
+- Quantum computing basics (qubits, superposition, entanglement)
+- Detailed explanation of every code section
+- Classical ML concepts (KNN, SVM)
+- Quantum optimization (QAOA) step-by-step
+- Glossary of terms
+- Common questions and answers
+
+This guide is designed for beginners learning quantum computing and provides detailed explanations of all concepts and code.
+
 ## Authors
 
 Greg and Victor - CSCI 300: Quantum Computing, St. Olaf College

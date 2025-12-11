@@ -2,7 +2,7 @@ import pandas as pd
 
 # Converting from parquet to CSV format
 parquet_file_path = "data.parquet"
-csv_file_path = "data.csv"
+csv_file_path = "wiki_data.csv"
 
 # Read the Parquet file into a pandas dataframe
 
